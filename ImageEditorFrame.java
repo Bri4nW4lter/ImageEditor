@@ -11,11 +11,11 @@ public class ImageEditorFrame extends JFrame{
 		setSize(400, 300);
 		setVisible(true);
 	}
-}
-public class Main{
+	
+	
 	public static void main(String[] args){
-		ImageEditorFrame frame = new ImageEditorFrame(){
+		ImageEditorFrame frame = new ImageEditorFrame();
 			
-		}
-	}		
-}		
+		
+	}	
+}
