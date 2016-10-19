@@ -1,7 +1,7 @@
 import javax.swing.*;
-import javax.awt.event.*;
-import javax.awt.*;
-import javax.awt.image.*;
+import java.awt.event.*;
+import java.awt.*;
+import java.awt.image.*;
 import java.io.*;
 import javax.imageio.*;
 
